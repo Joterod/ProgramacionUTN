@@ -1,0 +1,5 @@
+La cohesion es la conexión o union que asegura que las partes de un todo estén bien integradas y funcionen juntas de manera efectiva.
+
+Acoplamiento: Es la dependencia que tienen las funciones entre sí.
+
+Lo ideal es alta cohesión y bajo acomplamiento.

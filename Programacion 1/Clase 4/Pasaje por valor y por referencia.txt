@@ -1,0 +1,3 @@
+En principio los conceptos de paso por valor y por referencia que aplican a la hora de cómo trata una funcion a los parametros se le pasan como entrada.
+EN PYTHON EXISTE SOLO EL PASO POR referencia.
+
